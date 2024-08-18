@@ -1,3 +1,5 @@
+**Data Visualization and Dashboards with Excel**
+
 The objective of this project is to analyze the historical trends in car sales for SwiftAuto Traders. The goal is to provide insights on car sales and profits for each dealer.
 For this project, I have created visualizations using Excel.
 
